@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is Anton </h1>
+<h1 align="center">Hello! My name is Anton </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
