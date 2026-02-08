@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">👋 Hello! My name is Anton </h1>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!--
 **antontikhonov/antontikhonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
